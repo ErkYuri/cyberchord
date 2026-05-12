@@ -12,13 +12,13 @@ Porém, um rebelde altamente inteligente e apaixonado pela música, conhecido co
 
 O jogo foca em uma tensão crescente, dividindo a atenção do jogador em dois sistemas simultâneos:
 
-* **O Campo de Batalha (Topo):** Pulse permanece no canto esquerdo, defendendo sua posição contra hordas de robôs que avançam da direita para a esquerda. O perigo é físico: você só perde vida se os robôs chegarem perto o suficiente para encostar no protagonista.
-* **O HUD Rítmico (Base):** Uma barra de frequência mostra as notas musicais deslizando no ritmo da trilha sonora. As notas funcionam como a sua "munição".
+* **O Campo de Batalha:** Pulse permanece no canto esquerdo, defendendo sua posição contra hordas de robôs que avançam da direita para a esquerda. O perigo é físico: você só perde vida se os robôs chegarem perto o suficiente para encostar no protagonista.
+* **O HUD Rítmico:** Uma barra de frequência mostra as notas musicais deslizando no ritmo da trilha sonora. As notas funcionam como a sua "munição".
 
 ### A Arma é o Ritmo
 Você deve pressionar as teclas correspondentes no momento exato em que a nota cruza o alvo na barra de ritmo. 
 
-* **Acerto Perfeito:** A Guitarra-Sintetizadora dispara um laser explosivo em neon que destrói o robô mais próximo da fila.
+* **Acerto Perfeito:** A Guitarra-Sintetizadora dispara um laser explosivo que destrói o robô mais próximo da fila.
 * **Erro no Beat:** Causa um som de distorção (estática). Você não toma dano direto pelo erro, mas perde a chance de atirar. Isso cria uma "brecha" para que os robôs continuem avançando em sua direção.
 
 ### Inimigos (Sistema HIT KEY)
