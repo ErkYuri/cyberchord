@@ -8,6 +8,9 @@ public class MovimentoPulse : MonoBehaviour
 
     void Update()
     {
+        /* --- CÓDIGO DE MOVIMENTO ADORMECIDO ---
+           Vamos reativar isso na Fase 6 (Boss Fight).
+        
         // 1. Checa se o jogador está segurando a tecla D (Direita)
         if (Keyboard.current.dKey.isPressed)
         {
@@ -21,9 +24,7 @@ public class MovimentoPulse : MonoBehaviour
         {
             transform.Translate(Vector3.left * velocidade * Time.deltaTime);
         }
-
-
         
-        
+        ----------------------------------------- */
     }
 }
